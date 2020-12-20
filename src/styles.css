@@ -1,0 +1,10 @@
+.App {
+  max-width: 80%;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Open Sans Condensed", sans-serif;
+  background-color: whitesmoke;
+}
